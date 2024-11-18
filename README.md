@@ -1,6 +1,6 @@
 <div align="center">
   
-# ⚡️ Hello World! I'm [Your Name] ⚡️
+# ⚡️ Hello World! I'm [Krishna Sai] ⚡️
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6C33F7&background=020203&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Problem+Solver)](https://git.io/typing-svg)
 
