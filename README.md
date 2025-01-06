@@ -18,10 +18,10 @@
 
 ```javascript
 const developer = {
-    name: "[Your Name]",
+    name: "[Krishna Sai]",
     role: "Full Stack Developer",
     currentWork: "[Your Current Project]",
-    learning: ["TypeScript", "Next.js", "AWS"],
+    learning: ["Blogging", "CP", "AWS"],
     askMeAbout: ["Web Dev", "Tech", "Coffee", "Photography"],
     currentFocus: "Building projects that make a difference",
     funFact: "I debug with console.log and I'm not ashamed of it!"
