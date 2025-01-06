@@ -20,7 +20,7 @@
 const developer = {
     name: "[Krishna Sai]",
     role: "Full Stack Developer",
-    currentWork: "[Your Current Project]",
+    currentWork: "[Student]",
     learning: ["Blogging", "CP", "AWS"],
     askMeAbout: ["Web Dev", "Tech", "Coffee", "Photography"],
     currentFocus: "Building projects that make a difference",
