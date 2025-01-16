@@ -103,7 +103,7 @@ const developer = {
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🎯 Goals for 2024
+### 🎯 Goals for 2025
 - Master TypeScript and Next.js
 - Contribute to more open source projects
 - Launch my personal blog
